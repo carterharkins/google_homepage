@@ -1,3 +1,4 @@
 # google_homepage
-TOP - HTML project to recreate the Google homepage
-from [curriculum] https://www.theodinproject.com/lessons/html-css
+TOP - HTML project to recreate the Google search results page for the search term "The Odin Project".
+
+This was the optional difficult project taken from The Odin Project [Web Development 101 lesson on html/css](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
